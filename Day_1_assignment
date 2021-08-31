@@ -1,0 +1,3 @@
+//Difference between compiler and interpreter?
+//Compiler - compiler will take the entire code and transforms to machine code.As it takes whole code execution will be faster comparitively to interpreter.
+//Interpreter - Interpreter will take the code and transforms each and every line i.e., one after the other to machine code.
